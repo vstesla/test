@@ -1,0 +1,7 @@
+{
+    "mer_name":"Starbucks",
+    "mer_id":"1",
+    "qr_scan_num":["num_day","num_tot"],
+    "dealnum":["num_day","num_tot"],
+    "income":["num_day","num_tot"],
+}
